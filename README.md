@@ -16,6 +16,8 @@
 
 I'm a systems software engineer focused on low-level C/Rust, binary protocols, and open source infrastructure.
 
+I am currently open to work!
+
 ---
 
 ## 🛠 Skills
@@ -25,15 +27,3 @@ I'm a systems software engineer focused on low-level C/Rust, binary protocols, a
 - **Tools & Infra:** Git, Docker, Kafka, Wireshark, GDB, Ghidra
 - **Platforms:** Linux (Arch), x86-64
 - **Other:** TCP/IP networking, protocol design, open source contribution workflows
-
----
-
-## 📄 Resume
-
-You can find my full resume **[here](resume.pdf)**.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yungFundamental&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
