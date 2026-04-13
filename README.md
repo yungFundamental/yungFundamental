@@ -14,17 +14,17 @@
 
 ## 🧠 About Me
 
-I'm a systems software engineer focused on low-level C/Rust, binary protocols, and open source infrastructure. 
+I'm a systems software engineer focused on low-level C/Rust, binary protocols, and open source infrastructure.
 
 ---
 
 ## 🛠 Skills
 
-**Languages:** C, Rust, Python, Bash
-**Systems & Low-Level:** binary wire protocols, memory management, OS internals
-**Tools & Infra:** Git, Docker, Kafka, Wireshark, GDB, Ghidra
-**Platforms:** Linux (Arch), x86-64
-**Other:** TCP/IP networking, protocol design, open source contribution workflows
+- **Languages:** C, Rust, Python, Bash
+- **Systems & Low-Level:** binary wire protocols, memory management, OS internals
+- **Tools & Infra:** Git, Docker, Kafka, Wireshark, GDB, Ghidra
+- **Platforms:** Linux (Arch), x86-64
+- **Other:** TCP/IP networking, protocol design, open source contribution workflows
 
 ---
 
