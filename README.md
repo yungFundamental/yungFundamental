@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Amit 👋</h1>
 
-<!--
-**yungFundamental/yungFundamental** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Systems engineer obsessed with low-level code and open source</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:amit.barzilai22@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/amit-barzilai-58b81b276/">💼 LinkedIn</a> •
+  <a href="[LINK TO YOUR RESUME — e.g., Google Drive, personal site, or GitHub Pages PDF]">📄 Resume</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a systems software engineer focused on low-level C/Rust, binary protocols, and open source infrastructure. 
+
+---
+
+## 🛠 Skills
+
+**Languages:** C, Rust, Python, Bash
+**Systems & Low-Level:** binary wire protocols, memory management, OS internals
+**Tools & Infra:** Git, Docker, Kafka, Wireshark, GDB, Ghidra
+**Platforms:** Linux (Arch), x86-64
+**Other:** TCP/IP networking, protocol design, open source contribution workflows
+
+---
+
+## 📄 Resume
+
+You can find my full resume **[here]([PASTE YOUR RESUME LINK])**.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yungFundamental&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
