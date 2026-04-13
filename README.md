@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:amit.barzilai22@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/amit-barzilai-58b81b276/">💼 LinkedIn</a> •
-  <a href="[LINK TO YOUR RESUME — e.g., Google Drive, personal site, or GitHub Pages PDF]">📄 Resume</a>
+  <a href="resume.pdf">📄 Resume</a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ I'm a systems software engineer focused on low-level C/Rust, binary protocols, a
 
 ## 📄 Resume
 
-You can find my full resume **[here]([PASTE YOUR RESUME LINK])**.
+You can find my full resume **[here](resume.pdf)**.
 
 ---
 
