@@ -14,9 +14,9 @@
 
 ## 🧠 About Me
 
-I'm a systems software engineer focused on low-level C/Rust, binary protocols, and open source infrastructure.
-
-I am currently open to work!
+- I'm a systems software engineer focused on low-level C/Rust, binary protocols, and open source infrastructure.
+- I am currently open to work!
+- The name "yungFundamental" was inspired by one of the greatest basketball players of all time - [Tim Duncan](https://en.wikipedia.org/wiki/Tim_Duncan) (AKA the Big Fundamental).
 
 ---
 
